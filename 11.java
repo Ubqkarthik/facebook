@@ -1,3 +1,0 @@
-hai
-welcome to devops
-
